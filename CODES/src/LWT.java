@@ -1,4 +1,4 @@
-//lecture 16 ,, multi class
+/*//lecture 16 ,, multi class
 
 public class LWT {
     public static void main(String[] args){
@@ -16,6 +16,14 @@ public class LWT {
         s2.showdetail();
 
 
+
+    }
+}*/
+
+//lecture 17 accese modifires
+
+public class LWT {
+    public static void main(String[] args){
 
     }
 }

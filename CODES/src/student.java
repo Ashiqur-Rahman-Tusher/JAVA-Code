@@ -1,7 +1,7 @@
 // lec 16 under multi class
 import java.util.Arrays;
 public class student {
-    public String name;
+    /*public String name;
     public String id;
     public course[] courses=new course[5];
     public int coursecount = 0;
@@ -25,6 +25,8 @@ public class student {
             System.out.println(courses[i].title);
         }
 
-    }
+    }*/
+    
 
 }
+

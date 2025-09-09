@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-
+import javax.swing.*;
 public class CT_practice {
     /*no3
     public static void main(String[] args) {
@@ -70,16 +70,16 @@ public class CT_practice {
 //        System.out.println("Avarage Speed in Mile Per Hour");
 //        System.out.printf("%.2f", a);
 //    }
-    //no 10;
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-
-        System.out.print("Enter an integer: ");
-        int num = sc.nextInt();
-
-        boolean divisible = (num % 2 == 0) ^ (num % 3 == 0); // XOR
-        System.out.println(divisible);
-    }
+//    //no 10;
+//    public static void main(String[] args) {
+//        Scanner sc = new Scanner(System.in);
+//
+//        System.out.print("Enter an integer: ");
+//        int num = sc.nextInt();
+//
+//        boolean divisible = (num % 2 == 0) ^ (num % 3 == 0); // XOR
+//        System.out.println(divisible);
+//    }
 //    //no 11;
 //    public static void main(String[] args) {
 //        Scanner sc = new Scanner(System.in);
@@ -92,5 +92,35 @@ public class CT_practice {
 //        System.out.println("year : " + year);
 //        System.out.println("day : " + day % 365);
 //    }
+    //practice
+//    public static void main(String[] args){
+//        JOptionPane.showMessageDialog(null,"Welcome To The Engineering Home",
+//                "HOME",JOptionPane.INFORMATION_MESSAGE);
+//        JOptionPane.showMessageDialog(null,"Ashiqur Rahman Tusher (CSE)\nTaohid Bin Jahid (EEE)\nSaif Hasan Lovlu (CSE)\nRuhid Islam Rahi (DS)",
+//                "Members",JOptionPane.INFORMATION_MESSAGE);
+//        JOptionPane.showMessageDialog(null,"If You Wants To Join Input Your name & Department","joining",JOptionPane.INFORMATION_MESSAGE);
+//        String input = JOptionPane.showInputDialog(null,"Name","Name",JOptionPane.QUESTION_MESSAGE);
+//        String input2 = JOptionPane.showInputDialog(null,"Dept.","Department",JOptionPane.QUESTION_MESSAGE);
+//        //JOptionPane.showMessageDialog(null,"");
+//        JOptionPane.showMessageDialog(null,
+//                "Ashiqur Rahman Tusher (CSE)\n" +
+//                        "Taohid Bin Jahid (EEE)\n" +
+//                        "Saif Hasan Lovlu (CSE)\n" +
+//                        "Ruhid Islam Rahi (DS)\n" +
+//                        input + " (" + input2 + ")",
+//                "Members", JOptionPane.INFORMATION_MESSAGE);
+//
+//    }
+//        public static void main(String[] args){
+//            Scanner sc = new Scanner(System.in);
+//            System.out.println("Enter (p,q)");
+//            int p = sc.nextInt();
+//            int q = sc.nextInt();
+//            System.out.println("Distance");
+//            int dis = sc.nextInt();
+//
+//        }
+    
+
 }
 
